@@ -3,7 +3,7 @@
 ### 🚀 About Me:
 I'm a passionate Computer Science enthusiast with a love for learning and building. Currently, I'm diving deep into Machine Learning and Web Development, exploring new technologies, and working on exciting projects.
 
-- 🔭 **Current Project:** Building "Synapse" - an innovative project that integrates [insert brief description].
+- 🔭 **Current Project:** Building "Synapse" - an innovative project.
 - 🌱 I’m currently learning Machine Learning and Web Development.
 - 📫 How to reach me:
     - 📧Gmail: [Shivi Jain](mailto:mj810991@gmail.com)
