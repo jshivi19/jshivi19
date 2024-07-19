@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jshivi19&theme=dark)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jshivi19&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jshivi19&layout=compact&theme=dark)
