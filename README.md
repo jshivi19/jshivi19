@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/shivi-jain-7b1907278/)
 - [LeetCode](https://leetcode.com/u/jshivi19/)
-- [HackerRank](https://www.hackerrank.com/profile/SHIVI19) make it in icons form
+- [HackerRank](https://www.hackerrank.com/profile/SHIVI19)
 
 ### Languages and Tools:
 <p>
