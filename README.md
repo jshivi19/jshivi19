@@ -11,18 +11,9 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: she/her
 
 ### Connect with me:
-<p>
-    <a href="https://www.linkedin.com/in/shivi-jain-7b1907278/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/jshivi19/">
-        <img src="https://img.shields.io/badge/LeetCode-F9D14D?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/SHIVI19">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-</p>
-
+- [LinkedIn](https://www.linkedin.com/in/shivi-jain-7b1907278/)
+- [LeetCode](https://leetcode.com/u/jshivi19/)
+- [HackerRank](https://www.hackerrank.com/profile/SHIVI19) make it in icons form
 
 ### Languages and Tools:
 <p>
