@@ -5,13 +5,16 @@ I'm a passionate Computer Science enthusiast with a love for learning and buildi
 
 - 🔭 **Current Project:** Building "Synapse" - an innovative project.
 - 🌱 I’m currently learning Machine Learning and Web Development.
-- 📫 How to reach me:
+<!-- 📫 How to reach me:
     - 📧Gmail: [Shivi Jain](mailto:mj810991@gmail.com)
-    - 🔗LinkedIn: [Shivi Jain](https://www.linkedin.com/in/shivi-jain-7b1907278/)
+    - 🔗LinkedIn: [Shivi Jain](https://www.linkedin.com/in/shivi-jain-7b1907278/) -->
 - 😄 Pronouns: she/her
 
 ### 🌐Connect with me:
 <p>
+    <a href="mailto:mj810991@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
     <a href="https://www.linkedin.com/in/shivi-jain-7b1907278/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -20,6 +23,9 @@ I'm a passionate Computer Science enthusiast with a love for learning and buildi
     </a>
     <a href="https://www.hackerrank.com/profile/SHIVI19">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+    <a href="https://www.instagram.com/shivi.jn_19/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </p>
 
