@@ -6,14 +6,23 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on a project "Synapse".
 - 🌱 I’m currently learning Machine Learning and Web Development.
 - 📫 How to reach me:
-    - Gmail: [mj810991@gmail.com](mailto:mj810991@gmail.com)
-    - LinkedIn: [shivi](https://www.linkedin.com/in/shivi-jain-7b1907278/)
+    - Gmail: [Shivi Jain](mailto:mj810991@gmail.com)
+    - LinkedIn: [Shivi Jain](https://www.linkedin.com/in/shivi-jain-7b1907278/)
 - 😄 Pronouns: she/her
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/shivi-jain-7b1907278/)
-- [LeetCode](https://leetcode.com/u/jshivi19/)
-- [HackerRank](https://www.hackerrank.com/profile/SHIVI19)
+<p>
+    <a href="https://www.linkedin.com/in/shivi-jain-7b1907278/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/jshivi19/">
+        <img src="https://img.shields.io/badge/LeetCode-F9D14D?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/SHIVI19">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+</p>
+
 
 ### Languages and Tools:
 <p>
@@ -23,6 +32,7 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
