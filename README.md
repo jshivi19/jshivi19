@@ -1,10 +1,9 @@
 ## Hi there 👋, I'm Shivi Jain
 
-<!--**jshivi19/jshivi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-Here are some ideas to get you started:
- -->
+### 🚀 About Me:
+I'm a passionate Computer Science enthusiast with a love for learning and building. Currently, I'm diving deep into Machine Learning and Web Development, exploring new technologies, and working on exciting projects.
 
-- 🔭 I’m currently working on a project "Synapse".
+- 🔭 **Current Project:** Building "Synapse" - an innovative project that integrates [insert brief description].
 - 🌱 I’m currently learning Machine Learning and Web Development.
 - 📫 How to reach me:
     - 📧Gmail: [Shivi Jain](mailto:mj810991@gmail.com)
@@ -33,7 +32,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src
+="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
